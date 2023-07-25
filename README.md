@@ -3,9 +3,10 @@
 # Overview
 
 Server_ur5 is a ROS package designed to facilitate communication with a Universal Robots UR5 robotic arm in a TCP/IP connection. The package allows you to send coordinates to the UR5, controlling its movement and adjusting its positions.
-Prerequisites
 
-    ROS (Robot Operating System) installed on your system. You can find installation instructions on the official ROS website: ROS Installation Guide
+# Prerequisites
+
+ROS (Robot Operating System) installed on your system. You can find installation instructions on the official ROS website: ROS Installation Guide
 
 # Installation
 
