@@ -10,19 +10,19 @@ ROS (Robot Operating System) installed on your system. You can find installation
 
 # Installation
 
-    Clone the Server_ur5 repository to your ROS workspace.
+Clone the Server_ur5 repository to your ROS workspace.
 
-bash
+ bash
 
-cd ~/catkin_ws/src
-git clone https://github.com/arvinmanoj15/Server_ur5.git
+    cd ~/catkin_ws/src
+    git clone https://github.com/arvinmanoj15/Server_ur5.git
 
-    Build the package using catkin_make.
+Build the package using catkin_make.
 
-bash
+ bash
 
-cd ~/catkin_ws
-catkin_make
+    cd ~/catkin_ws
+    catkin_make
 
 # Troubleshooting
 
