@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="server_ur5" name="server" type="server" output="screen">
+  </node>
+</launch>
