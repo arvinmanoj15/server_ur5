@@ -15,7 +15,7 @@ Clone the Server_ur5 repository to your ROS workspace.
  bash
 
     cd ~/catkin_ws/src
-    git clone https://github.com/arvinmanoj15/Server_ur5.git
+    git clone https://github.com/arvinmanoj15/server_ur5.git
 
 Build the package using catkin_make.
 
